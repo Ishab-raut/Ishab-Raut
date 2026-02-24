@@ -9,7 +9,7 @@ I am currently focused on building efficient ML pipelines and exploring data sci
 - 💬 Ask me about **Python, or Data Preprocessing**.</br>
 
 📫 Connect with me:
-[Gmail](ishabraut02@gmail.com) 
+ishabraut02@gmail.com
 
 ## 🌐 Socials:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ishab Raut)</br>
